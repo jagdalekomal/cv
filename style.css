@@ -1,0 +1,193 @@
+body{
+  font-size: 20px;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+.box{
+  background-image: url(tech1.jpg);
+  height:650px;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.iner{
+
+  padding: 200px 200px 200px 200px;
+  text-align: center;
+  color: white;
+
+
+}
+h1{
+  padding-bottom: 20px;
+  border-bottom: 1px solid ;
+  border-color: white;
+  display: inline-block;
+font-size: 60px;
+}
+h3{
+  margin-top: -10px;
+font-size: 30px;
+}
+.profile{
+  height:auto;
+  width: 100%;
+  background-color: #d2f5e3;
+  text-align: center;
+  margin-top: -40px;
+  padding-bottom: 50px;
+}
+hr{
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  border-color: #727878;
+  width:50%;
+  border-style: solid;
+  font-size: 30px;
+}
+.title{
+
+  color:#16697a;
+  font-size: 40px;
+  padding-top: 20px;
+
+}
+.intro{
+
+  color: #000000;
+  margin: auto;
+  width:  30%;
+  padding-bottom: 40px;
+}
+.hello{
+  color:#16697a;
+}
+
+.education{
+  background-color: #d9e4dd;
+  height:auto;
+  width: 100%;
+  text-align: center;
+  margin-top: -35px;
+  padding-bottom: 50px;
+}
+
+.edu{
+display: inline-block;
+
+margin-left: -150px;
+width: 30%;
+}
+strong{
+  color:#16697a;
+  font-size: 25px;
+}
+.edurow{
+ width: 30%;
+display: inline-block;
+}
+.skills{
+  background-color: #d2f5e3;
+  height:auto;
+  width: 100%;
+  margin-top: -35px;
+  text-align: center;
+  padding-bottom: 50px;
+
+}
+span{
+  color: #16697a;
+}
+span:hover{
+  text-shadow: 2px 2px 10px ;
+}
+.tab{
+  text-align: center;
+  margin: auto;
+  padding-top: 20px;
+}
+tr,td{
+  padding-right: 20px;
+  padding-bottom: 10px;
+  text-align: left;
+}
+.project{
+  background-color: #d9e4dd;
+  height:auto;
+  width: 100%;
+  margin-top: -35px;
+  text-align: center;
+  padding-bottom: 50px;
+
+
+
+}
+.img{
+
+  float: left;
+  margin-right: 30px;
+
+}
+.fst{
+
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+
+.img1{
+
+float: right;
+  margin-left: 30px;
+
+}
+.snd{
+
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+.footer{
+  background-color: #9ddfd3;
+  height:auto;
+  width: 100%;
+  margin-top: -33px;
+  text-align: center;
+  padding-bottom: 50px;
+
+}
+.contact{
+  color: #16697a;
+
+  font-size: 40px;
+  padding-top: 20px;
+
+}
+
+a:hover{
+
+  color:white ;
+}
+
+li{
+
+	display: inline-block;
+}
+ul{
+  margin-left: -100px;
+}
+.fa{
+  display: block;
+	padding: 15px;
+	margin-left: 100px;
+
+}
+a{
+	display: block;
+  color: #16a596
+}
